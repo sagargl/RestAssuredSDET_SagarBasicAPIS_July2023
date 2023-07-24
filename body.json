@@ -1,0 +1,8 @@
+{
+    "name": "John",
+    "job": "Administrator",
+    "courses": [
+        "Java",
+        "C++"
+    ]
+} 	    
